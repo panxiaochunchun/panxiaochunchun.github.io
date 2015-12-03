@@ -1,2 +1,3 @@
-# panxiaochunchun.github.io
-潘晓春的博客
+我的第一个篇技术博客
+内容很简单
+希望以后学点js和css，然后把它做好；
